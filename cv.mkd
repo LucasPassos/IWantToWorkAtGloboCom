@@ -1,19 +1,106 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Área de Jornalismo
+Área de Entretenimento
+Área de Webmedia
 
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+Lucas Gonçalves Vieira Passos
+Solteiro, brasileiro, 18 anos
+Rua José Maria de Abreu, 510 - Realengo
+Cep.: 21755-260 – Rio de Janeiro – RJ
+Tels: (21) 3331-6718 / (21) 9659-9521 / (21) 7958-1086
+E-mail: lucaswild9@hotmail.com 
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+
+Objetivo: ÁREA de DESIGN GRÁFICO
+
+Sumário:
+• Pontual;
+• Adaptabilidade;
+• Bem humorado;
+• Dinâmico;
+• Responsável;
+• Dedicação com o trabalho;
+• Sempre disposto a aprender coisas novas.
+
+
+Formação: 
+• Ensino Médio Técnico em Informática - Colégio de Aplicação Dr. Paulo Gissoni - Conclusão Novembro/2011;
+• Cisco Networking Academy - IT Essentials: PC Hardware and Software Version 4.0 Portuguese-Brazil – Conclusão – Junho/2012.
+
+
+Ainda Cursando:
+• Curso Superior de Tecnologia em Design Gráfico (Web Design - Tecnólogo em Design Gráfico) – Universidade Castelo Branco – Início - Fevereiro/2012;
+• Curso de inglês FISK – Unidade em Realengo – Início – Setembro/2009.
+
+
+Idiomas:	
+• Inglês (Avançado).
+
+
+Programas que uso:
+• Dreamweaver (Intermediário);
+• Fireworks (Avançado);
+• Flash (Básico);
+• Photoshop (Básico);
+• Microsoft Office Word (Avançado);
+• Microsoft Office PowerPoint (avançado);
+• Microsoft Office Publisher (Intermediário);
+• Microsoft Office Excel (Básico);
+• Camtasia Studio 7.0 (Intermediário);
+• Adobe Audition 1.5 (Básico).
+
+
+Sei Programar em:
+• HTML (Intermediário); 
+• CSS (Intermediário);
+• WordPress (Básico);
+• jQuery.
+
+
+Sistemas Operacionais:
+• Windows XP;
+• Windows Vista;
+• Windows 7.
+
+
+Adicionais:
+• Grupo de teatro: 5 anos de participação. Peças infantis, infanto-juvenis e adultas;
+• Curso de Desenho: 4 anos;
+• Guitarra e violão (Intermediário).
+
+
+Experiência Profissional
+
+--Informática--
+Empresa: Colégio de Aplicação Dr. Paulo Gissoni
+Cargo: Estagiário
+
+Período:
+De 02/2010 a 10/2010
+
+Principais Atividades:
+• Criação de slides em PowerPoint para serem apresentados em eventos na Instituição
+• Criação de vídeos para serem apresentados em eventos na Instituição
+• Digitação e formatação de arquivos de textos no Word
+
+
+--Música--
+Evento:	Conjer - 2012
+Data: 22 de março de 2012
+Função: Violeiro
+
+
+Blogs Criados:
+
+Débora Coreografias:	
+www.debora-coreografias.blogspot.com
+
+Uma Viagem pelo Espiritismo:	
+www.viagempeloespiritismo.blogspot.com.br
+
